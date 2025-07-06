@@ -1,5 +1,6 @@
 # Sistema de Controle de Refeições Corporativas
 
+Status: Em desenvolvimento
 
 Tecnologias Aplicadas
 Este sistema será desenvolvido com as seguintes tecnologias abordadas no curso:
